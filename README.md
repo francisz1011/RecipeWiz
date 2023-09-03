@@ -1,6 +1,9 @@
 # RecipeWiz: AI Recipe Generator
 
-![RecipeWiz Logo](/chef.png)
+![RecipeWiz Logo](/public/chef.png)
+
+https://github.com/francisz1011/RecipeWiz/assets/113845954/73be78ad-9ebf-41df-8bcf-00de291b7ed9
+
 
 ## Table of Contents
 
@@ -37,19 +40,23 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
 
-   ```shell
-   git clone https://github.com/francisz1011/RecipeWiz.git
-
-   Navigate to the project directory:
    ```
+   git clone https://github.com/francisz1011/RecipeWiz.git
+   ```
+   Navigate to the project directory:
 
+```
 cd RecipeWiz
+```
 Install dependencies:
-
+```
 npm install
+```
 Start the development server:
 
+```
 npm run dev
+```
 RecipeWiz should now be accessible at http://localhost:3000.
 
 Usage
