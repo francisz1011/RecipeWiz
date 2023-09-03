@@ -39,11 +39,10 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 
 1. Clone this repository:
-
-   ```
-   git clone https://github.com/francisz1011/RecipeWiz.git
-   ```
-   Navigate to the project directory:
+ ```
+ git clone https://github.com/francisz1011/RecipeWiz.git
+ ```
+ Navigate to the project directory:
 
 ```
 cd RecipeWiz
@@ -77,8 +76,6 @@ Push to your fork: git push origin feature/your-feature-name
 Create a pull request targeting the main branch of the original repository.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the ![MIT License](https://opensource.org/license/mit/) - see the LICENSE file for details.
 
-```
 
-```
